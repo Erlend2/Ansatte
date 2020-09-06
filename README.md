@@ -5,7 +5,7 @@ På kurset kunne man ta eksamenen enten alene eller i en gruppe. Jeg hadde et go
 
 Min utforming av eksamensoppgave 2 var ekstra langt og derfor valgte vi å presentere en enklere besvarelse for lærerne.
 
-**Beskrivelse**
+# Beskrivelse
 
 Koden er skrevet i Python, og ble laget og testet med Anaconda's Spyder.
 
